@@ -1,0 +1,13 @@
+body{
+    background: url(../photo/khuf3.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+p{
+    color: wheat;
+    font-size: 25px;
+    padding-top: 100px;
+}
+a{
+    color: white;
+}

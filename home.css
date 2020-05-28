@@ -1,0 +1,18 @@
+body{
+    background: url(../photo/10\ \(1\).JPG) no-repeat center center fixed;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    color: wheat;
+    padding: 50px;
+}
+
+p{
+    text-align: justify;
+    color: wheat;
+    font-size: 25px;
+}
+a{
+    color: white;
+}

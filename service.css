@@ -1,0 +1,22 @@
+body{
+    background: url(../photo/10\ \(6\).JPG) no-repeat center center fixed;
+    background-size: cover;
+}
+h4{
+text-decoration: underline;
+color: wheat;    
+}
+#services{
+    text-decoration: none;
+    color: wheat;
+}
+li{
+    color: wheat;
+}
+p{
+    color: wheat;
+    font-size: 20px;
+}
+a{
+    color: white;
+}

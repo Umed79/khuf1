@@ -1,0 +1,14 @@
+body{
+    background: url(../photo/3.JPG) no-repeat center center fixed;
+    background-size: cover;
+}
+
+p{
+    color: purple;
+    font-size: 30px;
+    padding: 100px;
+    text-align: center;
+}
+a{
+    color: whitesmoke;
+}
